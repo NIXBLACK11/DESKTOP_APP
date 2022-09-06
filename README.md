@@ -34,12 +34,37 @@ The technology selected for implementing the Student Management System is *JAVA*
 
 The development was done in a ‘windows’ environment using *Visual Studio Code*.
 
+##ADMIN PAGE
+
 ![adminpage](https://user-images.githubusercontent.com/91743459/188638738-e571dac3-382c-4cdf-bdb7-eea52302495f.jpg)
+
+##LOGIN PAGE
+
 ![login_page](https://user-images.githubusercontent.com/91743459/188638743-6f818258-9000-4101-98c9-8dfa3b631a37.jpg)
+
+##REGISTER PAGE
+
 ![register](https://user-images.githubusercontent.com/91743459/188638750-e5e7651c-2667-49aa-becd-5e4fd0fd6b0e.jpg)
+
+##SERACH PAGE
+
 ![search](https://user-images.githubusercontent.com/91743459/188638753-46f5b3c4-de24-4989-88c8-21880344ed31.jpg)
+
+##SHOW USERS
+
 ![show_all](https://user-images.githubusercontent.com/91743459/188638757-db77b5bd-185f-4564-8066-f0925d657760.jpg)
+
+##SHOW USER THEIR OWN DATA
+
 ![show_user](https://user-images.githubusercontent.com/91743459/188638761-8ee70fad-c412-4898-8d6f-914c15f84b43.jpg)
+
+##UPDATE
+
 ![update](https://user-images.githubusercontent.com/91743459/188638767-70f11bc5-80fb-43af-91e9-043bb3d61135.jpg)
+
+##UPDATE USER'S OWN DATA
 ![update_user](https://user-images.githubusercontent.com/91743459/188638769-8a0f7e52-3650-4185-bed9-dc50ae56c502.jpg)
+
+##USER PAGE
+
 ![userpage](https://user-images.githubusercontent.com/91743459/188638771-a375f0eb-bf9b-40ca-bf2d-37a5c5006a2c.jpg)
