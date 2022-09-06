@@ -6,7 +6,7 @@ class LoginFormDemo
     {  
         try  
         {  
-            CreateLoginForm form = new CreateLoginForm();  
+            CreateLoginForm2 form = new CreateLoginForm2();  
             form.setSize(1300,500);
             form.setVisible(true);    
         }  
